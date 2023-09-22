@@ -1,16 +1,28 @@
-### Hi there 👋
+<div align="center">
+  <h1 align="center">Hola soy Oscar✨</h1>
+  <img src="https://ideogram.ai/api/images/direct/7At9PcgGQwqbhAUeDo8CHg" width="600">
+</div>
 
-<!--
-**OscarMeneses99/OscarMeneses99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <h2>Sobre mi</h2>
+  <h3>Soy un apasionado programador con experiencia en la creación de aplicaciones web robustas y atractivas. Mi enfoque se basa en la combinación de una sólida comprensión de las tecnologías front-end y back-end, junto con la capacidad de implementar soluciones eficientes y escalables. Mi pasión por la innovación y la constante actualización en nuevas tecnologías me permite ofrecer resultados de alta calidad y adaptarme a las demandas cambiantes del mundo digital.</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2>Tegnologias que uso:</h2>
+  <h3>Para Front-end</h3>
+  <ul>
+    <li>React</li>
+    <li>TailwindCSS</li>
+    <li>Vite</li>
+    <li>Astro</li>
+  </ul>
+  <h3>Para Back-end</h3>
+  <ul>
+    <li>Node.js</li>
+    <li>Express</li>
+  </ul>
+   <h3>Para Bases De Datos</h3>
+  <ul>
+    <li>SQL</li>
+    <li>MongoDB</li>
+  </ul>
+</div>
