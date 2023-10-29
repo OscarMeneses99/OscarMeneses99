@@ -30,5 +30,11 @@
       <li>SQL</li>
       <li>MongoDB</li>
     </ul>
+    <h3>Otras</h3>
+      <ul>
+        <li>Sistemas basados en Linux</li>
+        <li>Git/GitHub</li>
+        <li>Despliegue en Plataformas como Servicio (PaaS)</li>
+      </ul>
   </article>
 </div>
