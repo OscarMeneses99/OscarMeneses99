@@ -17,6 +17,7 @@
       <li>React</li>
       <li>TailwindCSS</li>
       <li>Vite</li>
+      <li>Next.js</li>
       <li>Astro</li>
     </ul>
     <h3>Para Back-end</h3>
