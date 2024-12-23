@@ -10,10 +10,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OscarMeneses99&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-  
-  <div align="center">
-    <img src="https://static.platzi.com/media/blog/mern-stack-284eedb6-ee6b-4441-b181-5064a453a15a.png" width="700">
-  </div>
 
   <article>
     <h2>Tegnologias que uso:</h2>
